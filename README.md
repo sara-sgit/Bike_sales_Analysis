@@ -78,7 +78,7 @@ Dashboard Development
 - Home Ownership: Homeowners were more likely to purchase bikes compared to renters.Could this be linked to storage space availability? If so, a recommendation on foldable or compact bikes might be useful.
 - Recommendation: Introduce financing options or promotions for renters and non-car owners to make bikes more accessible.
 
-##Recommendations
+## Recommendations
 
 Regional Marketing:
 - Focus on increasing female bike purchases in Asia Pacific through targeted campaigns.
