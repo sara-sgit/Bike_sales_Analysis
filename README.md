@@ -32,7 +32,7 @@ Data Cleaning
 Exploratory Data Analysis (EDA)
 
 -  Conducted initial analysis to understand the data structure and key metrics.
--  Formulated specific questions to guide the analysis, such as identifying top-performing coffee types, customer preferences, and regional trends.
+-  Formulated specific questions to guide the analysis.
 
 Pivot Table Creation
 
