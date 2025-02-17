@@ -49,7 +49,8 @@ Dashboard Development
   
 # Dashboard 
 
- <img width="956" alt="Bike Sales Project" src="https://github.com/user-attachments/assets/3cdb2507-5b4a-4636-8ee2-3aef545a93aa" />
+<img width="957" alt="Bike Sales Project" src="https://github.com/user-attachments/assets/973652a0-cb63-460e-9911-b2f089b9a9a0" />
+
 
 
 
